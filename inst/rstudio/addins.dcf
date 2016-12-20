@@ -17,3 +17,8 @@ Name: Subset a Data Frame
 Description: Interactively subset a data frame.
 Binding: subsetAddin
 Interactive: true
+
+Name: Clear
+Description: Clear text from the console by printing many newline characters.
+Binding: clearAddin
+Interactive: false
