@@ -22,3 +22,8 @@ Name: Clear
 Description: Clear text from the console by printing many newline characters.
 Binding: clearAddin
 Interactive: false
+
+Name: Remove Globals
+Description: Remove all objections in .GlobalEnv
+Binding: rmAddin
+Interactive: false
